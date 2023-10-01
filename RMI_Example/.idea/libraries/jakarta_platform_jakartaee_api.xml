@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jakarta.platform.jakartaee.api" type="repository">
+    <properties maven-id="jakarta.platform:jakarta.jakartaee-api:9.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/platform/jakarta.jakartaee-api/9.1.0/jakarta.jakartaee-api-9.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

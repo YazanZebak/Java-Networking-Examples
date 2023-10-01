@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="sun.xml.ws.rt" type="repository">
+    <properties maven-id="com.sun.xml.ws:rt:4.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/ws/rt/4.0.1/rt-4.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/ws/policy/4.0.1/policy-4.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jaxb/jaxb-runtime/4.0.2/jaxb-runtime-4.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jaxb/jaxb-core/4.0.2/jaxb-core-4.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jaxb/txw2/4.0.2/txw2-4.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/istack/istack-commons-runtime/4.1.1/istack-commons-runtime-4.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/ha/ha-api/3.1.13/ha-api-3.1.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/external/management-api/3.2.3/management-api-3.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/gmbal/gmbal-api-only/4.0.3/gmbal-api-only-4.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/staxex/stax-ex/2.1.0/stax-ex-2.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/stream/buffer/streambuffer/2.1.0/streambuffer-2.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/mimepull/mimepull/1.10.0/mimepull-1.10.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/mail/jakarta.mail-api/2.1.1/jakarta.mail-api-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/angus/angus-activation/2.0.0/angus-activation-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/angus/angus-mail/2.0.1/angus-mail-2.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/messaging/saaj/saaj-impl/3.0.0/saaj-impl-3.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/woodstox/woodstox-core/6.5.0/woodstox-core-6.5.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/activation/jakarta.activation-api/2.1.1/jakarta.activation-api-2.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/xml/ws/jakarta.xml.ws-api/4.0.0/jakarta.xml.ws-api-4.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/xml/soap/jakarta.xml.soap-api/3.0.0/jakarta.xml.soap-api-3.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
